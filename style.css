@@ -141,21 +141,10 @@
         @media screen and (max-width:600px) {
             form input {
                 width: 20rem;
+                font-size: 0.8rem;
             }
             .select {
                 display: none;
             }
         }
-        /*         
-        form button {
-            width: 2rem;
-            padding: 1rem;
-        }
-        
        
-        
-        .select::after {
-            width: 1%;
-            top: 4rem;
-            padding: 1.2rem;
-        } */
